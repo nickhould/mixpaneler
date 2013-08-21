@@ -1,5 +1,5 @@
 # config
-./lib/mixpaneler/initializer.rb
+lib/mixpaneler/initializer.rb
 
 # rcov generated
 coverage
